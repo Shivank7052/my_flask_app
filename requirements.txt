@@ -179,6 +179,7 @@ grpcio-status==1.71.0
 grpclib==0.4.7
 gspread==6.2.0
 gspread-dataframe==4.0.0
+gunicorn==23.0.0
 gym==0.25.2
 gym-notices==0.0.8
 gymnasium==1.1.1
